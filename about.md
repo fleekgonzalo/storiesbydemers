@@ -9,7 +9,7 @@ permalink: /about/
 
 Welcome to the official website of B. A. DeMers, where creativity meets the boundless possibilities of imagination. As a writer, my passion lies in weaving stories that transport readers to worlds both familiar and fantastical, leaving a lasting impression that resonates long after the final page.
 
-![B.A. DeMers - Author Avatar - Passionate Writer of Creative Stories](ba-demers.github.io/assets/images/author-avatar.jpg)
+![B.A. DeMers - Author Avatar - Passionate Writer of Creative Stories](/assets/images/author-avatar.jpg){: .avatar}
 
 ## My Journey
 
@@ -35,4 +35,4 @@ I invite you to join me on this journey of discovery and creativity. Feel free t
 
 &copy; 2024 B.A. DeMers. All rights reserved. Unauthorized use or reproduction of this content is prohibited. This site and its content are the intellectual property of B.A. DeMers. For more about the technologies used in its creation, visit [Sondra Hoffman](https://sondrahoffman.online).
 
-Follow me on [TikTok](#) | [Instagram](#) | [Goodreads](#)
+Coming soon...follow me on [TikTok](#) | [Instagram](#) | [Goodreads](#)

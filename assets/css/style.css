@@ -1,0 +1,44 @@
+.avatar {
+    width: 150px; /* Adjust size as needed */
+    height: auto;
+    border-radius: 50%; /* Makes the image circular */
+    margin: 20px auto;
+    display: block;
+    object-fit: cover;
+}
+/* Style the navigation menu */
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    background-color: #333;
+}
+
+.menu li {
+    margin: 0;
+    padding: 0;
+}
+
+.menu a {
+    display: block;
+    padding: 14px 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.menu a:hover {
+    background-color: #575757;
+    color: white;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .menu {
+        flex-direction: column;
+    }
+}
+.menu a.active {
+    background-color: #575757;
+    font-weight: bold;
+}

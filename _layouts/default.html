@@ -4,16 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
+    <!-- filepath: /home/sondra-hoffman/Documents/projects/websites/ba-demers.github.io/_layouts/default.html -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-    <header>
-        <nav>
-            <a href="/">Home</a>
-            <a href="/about/">About</a>
-        </nav>
-    </header>
-    <main>
-        {{ content }}
-    </main>
+  <header>
+    <nav>
+      <ul class="menu">
+        {% for item in site.navigation %}
+        <li><a href="{{ item.url }}">{{ item.name }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </header>
+  <main>
+    {{ content }}
+  </main>
 </body>
 </html>
