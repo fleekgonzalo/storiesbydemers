@@ -1,9 +1,15 @@
-navigation:
+title: "Stories by DeMers"  # Your website's title
+description: "A personal website by B.A. DeMers"  # Short site description
+baseurl: ""  # Leave empty for personal sites (mandatory for correct URL resolution)
+url: "https://storiesbydemers.github.io"  # Full URL to your website
+navigation:  # Define your site's navigation menu
   - name: "Home"
-    url: "/"
+    url: "/"  # Root path
   - name: "About"
-    url: "/about/"
+    url: "/about/"  # About page path
   - name: "Blog"
-    url: "/blog/"
+    url: "/blog/"  # Blog page path
   - name: "Contact"
-    url: "/contact/"
+    url: "/contact/"  # Contact page path
+  - name: "Stories"
+    url: "/stories/"  # Stories page path
