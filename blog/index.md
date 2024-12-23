@@ -8,4 +8,4 @@ permalink: /blog/
 
 This is the landing page for the blog. Explore posts below:
 
-**Coming soon**
+**Coming soon!**
