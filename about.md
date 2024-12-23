@@ -1,7 +1,6 @@
 ---
 layout: default
-title: "About B.A. DeMers"
-description: "Discover the journey and inspirations of B. A. DeMers, an author crafting captivating stories that transcend time."
+title: About
 permalink: /about/
 ---
 

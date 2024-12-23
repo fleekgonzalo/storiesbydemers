@@ -1,10 +1,12 @@
 ---
 layout: default
-title: "Contact Me"
+title: Contact
 permalink: /contact/
 ---
 
 # Contact Me
+
+I appreciate you wanting to connect! Please fill out the form here and I will be in touch as soon as possible!
 
 <!-- modify this form HTML and place wherever you want your form -->
 <form
