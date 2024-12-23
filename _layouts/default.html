@@ -9,10 +9,11 @@
 <body>
   <header>
     <nav>
-      <ul class="menu">
-        {% for item in site.navigation %}
-        <li><a href="{{ item.url }}">{{ item.name }}</a></li>
-        {% endfor %}
+      <ul>
+        <li><a href="{{ site.baseurl }}/">Home</a></li>
+        <li><a href="{{ site.baseurl }}/about/">About</a></li>
+        <li><a href="{{ site.baseurl }}/blog/">Blog</a></li>
+        <li><a href="{{ site.baseurl }}/contact/">Contact</a></li>
       </ul>
     </nav>
   </header>

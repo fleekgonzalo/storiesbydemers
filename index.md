@@ -9,19 +9,13 @@ permalink: /
 
 Captivating stories that transcend time, blending imagination and reality.
 
-[Explore My Works](/works)
+[Explore My Stories](/stories)
 
 ## About the Author
 
 Discover the journey and inspirations behind B.A. DeMers' creative works.
 
 [Learn More](/about)
-
-## Works
-
-Explore stories that captivate and inspire. From fantasy to mystery, there's something for every reader.
-
-[Browse Works](/works)
 
 ## Blog
 

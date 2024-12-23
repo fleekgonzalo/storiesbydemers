@@ -29,7 +29,7 @@ Through my writing, I aim to bridge the gap between reality and imagination, cre
 
 I invite you to join me on this journey of discovery and creativity. Feel free to explore my works, share your thoughts, or simply enjoy the stories crafted for you.
 
-[Explore My Works](/works) | [Visit My Blog](/blog)
+[Explore My Works](/stories/) | [Visit My Blog](/blog/)
 
 ---
 
