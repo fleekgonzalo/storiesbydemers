@@ -45,3 +45,29 @@
     background-color: #575757;
     font-weight: bold;
 }
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1em;
+    background: #f4f4f4;
+    border-radius: 5px;
+}
+label {
+    margin-top: 1em;
+    display: block;
+}
+input, textarea, button {
+    width: 100%;
+    padding: 0.5em;
+    margin-top: 0.5em;
+}
+button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 0.7em;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #555;
+}

@@ -6,17 +6,21 @@ permalink: /contact/
 
 # Contact Me
 
-Feel free to reach out using the form below!
-
-<form action="https://formspree.io/f/your-form-id" method="POST">
-  <label for="name">Name:</label><br>
-  <input type="text" id="name" name="name" required><br><br>
-
-  <label for="email">Email:</label><br>
-  <input type="email" id="email" name="email" required><br><br>
-
-  <label for="message">Message:</label><br>
-  <textarea id="message" name="message" rows="4" required></textarea><br><br>
-
-  <button type="submit">Send Message</button>
-</form>
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/xrbbgogr"
+  method="POST"
+> <label>
+    Your full name:
+    <input type ="name" name="name">
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+  
