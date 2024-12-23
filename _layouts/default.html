@@ -1,3 +1,4 @@
+<!-- filepath: /home/sondra-hoffman/Documents/projects/websites/ba-demers.github.io/_layouts/default.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,16 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
   <header>
-    <nav>
-      <ul>
+    <nav class="navbar">
+      <ul class="menu">
+        <img src="{{ site.baseurl }}/assets/images/menu-icon.png" alt="Menu Icon" class="menu-icon">
         <li><a href="{{ site.baseurl }}/">Home</a></li>
         <li><a href="{{ site.baseurl }}/about/">About</a></li>
         <li><a href="{{ site.baseurl }}/blog/">Blog</a></li>
         <li><a href="{{ site.baseurl }}/stories/">Stories</a></li>
-        <li><a href="{{ site.baseurl }}/contact/">Contact</a></li>        
+        <li><a href="{{ site.baseurl }}/contact/">Contact</a></li>
       </ul>
     </nav>
   </header>
@@ -23,4 +26,3 @@
   </main>
 </body>
 </html>
-```

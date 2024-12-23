@@ -8,7 +8,7 @@ permalink: /about/
 
 Welcome to the official website of B. A. DeMers, where creativity meets the boundless possibilities of imagination. As a writer, my passion lies in weaving stories that transport readers to worlds both familiar and fantastical, leaving a lasting impression that resonates long after the final page.
 
-![B.A. DeMers - Author Avatar - Passionate Writer of Creative Stories](/assets/images/author-avatar.jpg){: .avatar}
+![B.A. DeMers - Author Avatar - Passionate Writer of Creative Stories]({{ site.baseurl }}/assets/images/author-avatar.jpg){: .avatar}
 
 ## My Journey
 
@@ -28,7 +28,7 @@ Through my writing, I aim to bridge the gap between reality and imagination, cre
 
 I invite you to join me on this journey of discovery and creativity. Feel free to explore my works, share your thoughts, or simply enjoy the stories crafted for you.
 
-[Explore My Works](/stories/) | [Visit My Blog](/blog/)
+[Explore My Works]({{ site.baseurl }}/stories/) | [Visit My Blog]({{ site.baseurl }}/blog/)
 
 ---
 
