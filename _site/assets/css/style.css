@@ -13,7 +13,7 @@
     display: flex; /* Use flexbox for layout */
     align-items: center; /* Vertically align the icon and menu items */
     justify-content: flex-start; /* Align everything to the left */
-    padding: 20px; /* Add padding for spacing around the navbar */
+    padding: 5px 20px; /* Add padding for spacing around the navbar */
     background-color: #140904; /* Set background color */
 }
 
