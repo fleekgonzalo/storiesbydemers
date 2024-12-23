@@ -13,14 +13,8 @@
     display: flex; /* Use flexbox for layout */
     align-items: center; /* Vertically align the icon and menu items */
     justify-content: flex-start; /* Align everything to the left */
-    padding: 0 20px; /* Add padding for spacing around the navbar */
+    padding: 20px; /* Add padding for spacing around the navbar */
     background-color: #140904; /* Set background color */
-}
-
-.menu-icon {
-    width: 40px; /* Adjust icon size as needed */
-    height: auto;
-    margin-right: 15px; /* Add spacing between the icon and menu items */
 }
 
 .menu {
