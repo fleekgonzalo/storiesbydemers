@@ -1,7 +1,8 @@
 title: "Stories by DeMers"  # Your website's title
 description: "A personal website by B.A. DeMers"  # Short site description
-baseurl: ""  # Leave empty for personal sites (mandatory for correct URL resolution)
-url: "https://storiesbydemers.github.io"  # Full URL to your website
+baseurl: "/storiesbydemers.github.io"
+url: "https://sondra94534.github.io"
+ # Full URL to your website
 permalink: pretty  # URL structure (pretty or date)
 navigation:  # Define your site's navigation menu
   - name: "Home"
