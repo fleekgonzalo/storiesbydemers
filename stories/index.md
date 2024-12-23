@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stories
+title: "Stories"
 permalink: /stories/
 ---
 # Welcome to Stories by B.A. DeMers
