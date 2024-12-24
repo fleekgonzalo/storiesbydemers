@@ -7,6 +7,27 @@
     object-fit: cover;
     border: 3px solid #ccc; /* Optional: Adds a subtle border */
 }
+.image {
+    width: 100%;
+    max-width: 400px; /* Limits the maximum width for book cover images */
+    height: auto;
+    border-radius: 5px; /* Adds rounded corners */
+    margin: 20px 0;
+    display: block;
+    object-fit: cover;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow to give a book cover effect */
+    border: 1px solid #ddd; /* Adds a border to enhance the book cover look */
+    margin-right: 20px; /* Adds space between the image and the text */
+    float: left; /* Allows text to wrap around the image */
+}
+
+@media (max-width: 768px) {
+    .image {
+        float: none; /* Removes float on smaller screens */
+        margin-right: 0;
+        margin: 20px auto; /* Centers the image */
+    }
+}
 
 /* Style the navigation menu */
 .navbar {

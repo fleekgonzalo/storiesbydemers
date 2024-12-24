@@ -7,7 +7,7 @@ permalink: /stories/
 
 Dive into creative works below:
 
-**Coming soon!**
+[The Compass and the Ashes]({{ site.baseurl }}/the-compass-and-the-ashes)
 
 ---
 
