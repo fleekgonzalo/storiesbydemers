@@ -23,8 +23,10 @@ navigation:  # Define your site's navigation menu
   - name: "Stories"
     url: "/stories/"  # Stories page path
 
+destination: dist  # Output directory
+
 build:
   command: |
-    gem install bundler:2.6.1
+    gem install bundler:2.3.14
     bundle install
     bundle exec jekyll build
