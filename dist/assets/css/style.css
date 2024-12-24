@@ -1,0 +1,103 @@
+.avatar {
+    width: 150px; /* Adjust size as needed */
+    height: auto;
+    border-radius: 50%; /* Makes the image circular */
+    margin: 20px auto;
+    display: block;
+    object-fit: cover;
+    border: 3px solid #ccc; /* Optional: Adds a subtle border */
+}
+.image {
+    width: 100%;
+    max-width: 400px; /* Limits the maximum width for book cover images */
+    height: auto;
+    border-radius: 5px; /* Adds rounded corners */
+    margin: 20px 0;
+    display: block;
+    object-fit: cover;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow to give a book cover effect */
+    border: 1px solid #ddd; /* Adds a border to enhance the book cover look */
+    margin-right: 20px; /* Adds space between the image and the text */
+    float: left; /* Allows text to wrap around the image */
+}
+
+@media (max-width: 768px) {
+    .image {
+        float: none; /* Removes float on smaller screens */
+        margin-right: 0;
+        margin: 20px auto; /* Centers the image */
+    }
+}
+
+/* Style the navigation menu */
+.navbar {
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Vertically align the icon and menu items */
+    justify-content: flex-start; /* Align everything to the left */
+    padding: 5px 20px; /* Add padding for spacing around the navbar */
+    background-color: #140904; /* Set background color */
+}
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex; /* Ensure menu items are in a horizontal row */
+}
+
+.menu li {
+    margin: 0 10px; /* Add spacing between menu items */
+}
+
+.menu a {
+    display: block;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+    color: #fbf2ee;
+}
+
+.menu a:hover {
+    background-color: #281308; /* Slightly lighter shade on hover */
+    color: #ffdd57; /* Highlight text color */
+    transition: all 0.2s ease-in-out;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .menu {
+        flex-direction: column;
+        align-items: center; /* Centers items in vertical menu */
+    }
+    .menu li {
+        margin-bottom: 5px; /* Adds space between vertical items */
+    }
+}
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1em;
+    background: #f4f4f4;
+    border-radius: 5px;
+}
+label {
+    margin-top: 1em;
+    display: block;
+}
+input, textarea, button {
+    width: 100%;
+    padding: 0.5em;
+    margin-top: 0.5em;
+}
+button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 0.7em;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #555;
+}
