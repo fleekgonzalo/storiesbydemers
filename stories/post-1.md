@@ -4,7 +4,7 @@ title: The Compass and the Ashes by B.A. DeMers
 description: A story page for the book "The Compass and the Ashes*
 permalink: /the-compass-and-the-ashes
 ---
-![]({{ site.baseurl }}assets/images/the-compass-and-the-ashes-cover.jpg){: .image}
+![]({{ site.baseurl }}/assets/images/the-compass-and-the-ashes-cover.jpg){: .image}
 
 # "The Compass and the Ashes" by B.A. DeMers
 
