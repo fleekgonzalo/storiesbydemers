@@ -1,0 +1,14 @@
+{
+  "name": "ba-demers-website",
+  "version": "1.0.0",
+  "description": "A personal website by B.A. DeMers",
+  "main": "index.js",
+  "scripts": {
+    "build": "jekyll build"
+  },
+  "author": "B.A. DeMers",
+  "license": "MIT",
+  "dependencies": {
+    "jekyll": "^4.2.0"
+  }
+}

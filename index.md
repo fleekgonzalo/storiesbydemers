@@ -21,7 +21,7 @@ Discover the journey and inspirations behind B.A. DeMers' creative works.
 
 Get insights into the creative process, reflections, and more from B. A. DeMers.
 
-[Visit the Blog]({{ site.baseurl }}/blog)
+[Visit the Blog]({{ site.baseurl }}/_posts)
 
 ---
 
