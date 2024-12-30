@@ -1,19 +1,18 @@
-<!-- filepath: /home/sondra-hoffman/Documents/projects/websites/ba-demers.github.io/_layouts/default.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ 'assets/css/style.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
+    <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/assets/images/favicon.ico">
 
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
         "@type": "Website",
-        "url": "https://ba-demers.github.io",
+        "url": "{{ site.url }}{{ site.baseurl }}",
         "name": "Stories by DeMers",
         "author": {
           "@type": "Person",
@@ -21,19 +20,19 @@
         },
         "publisher": {
           "@type": "Individual",
-          "name": "Self-Published",
+          "name": "Self-Published"
         }
       }
-      </script>
+    </script>
 </head>
 <body>
   <header>
     <nav class="navbar">
-      <a href="{{ site.baseurl }}/assets/images/menu-icon.png" class="logo">
-        <img src="{{ site.baseurl }}/assets/images/menu-icon.png" alt="Logo">
+      <a href="{{ site.baseurl }}assets/images/menu-icon.png" class="logo">
+        <img src="{{ site.baseurl }}assets/images/menu-icon.png" alt="Logo">
       </a>
       <ul class="menu">
-        <li><a href="{{ site.baseurl }}Home/">Home</a></li>
+        <li><a href="{{ site.baseurl }}">Home</a></li>
         <li><a href="{{ site.baseurl }}about/">About</a></li>
         <li><a href="{{ site.baseurl }}blog/">Blog</a></li>
         <li><a href="{{ site.baseurl }}stories/">Stories</a></li>
