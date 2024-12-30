@@ -15,13 +15,13 @@ Captivating stories that transcend time, blending imagination and reality.
 
 Discover the journey and inspirations behind B.A. DeMers' creative works.
 
-[Learn More]({{ site.baseurl }}/about)
+[Learn More]({{ site.baseurl }}/about/)
 
 ## Blog
 
 Get insights into the creative process, reflections, and more from B. A. DeMers.
 
-[Visit the Blog]({{ site.baseurl }}/_posts)
+[Visit the Blog]({{ site.baseurl }}/posts/)
 
 ---
 
