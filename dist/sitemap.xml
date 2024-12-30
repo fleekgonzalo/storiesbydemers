@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/about/</loc>
+<loc>https://sondra94534.github.io/storiesbydemers/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/contact/</loc>
+<loc>https://sondra94534.github.io/storiesbydemers/contact/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/blog/</loc>
+<loc>https://sondra94534.github.io/storiesbydemers/blog/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/stories/</loc>
+<loc>https://sondra94534.github.io/storiesbydemers/stories/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>https://sondra94534.github.io/storiesbydemers/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/the-compass-and-the-ashes</loc>
+<loc>https://sondra94534.github.io/storiesbydemers/the-compass-and-the-ashes</loc>
 </url>
 </urlset>
